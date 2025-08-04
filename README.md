@@ -27,7 +27,7 @@
         </div>
 
         <!-- Name -->
-        <h1 class="text-3xl font-bold text-gray-800 mb-2">John Doe</h1>
+        <h1 class="text-3xl font-bold text-gray-800 mb-2">Prem Ingale</h1>
 
         <!-- Occupation/Title -->
         <p class="text-lg text-purple-600 mb-6">Web Developer | Designer</p>
